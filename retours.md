@@ -18,7 +18,7 @@ Le plus simple est de réagir directement en commentaire du post LinkedIn de pub
 
 Pour une remarque plus structurée, vous pouvez ouvrir une demande sur GitHub. Le formulaire prérempli permet d’indiquer le document concerné, le commentaire et la suggestion éventuelle.
 
-[Proposer une remarque sur GitHub](https://github.com/danielkorabelnikov/kit-clause-limitative-responsabilite/issues/new?title=Retour%20sur%20le%20guide%20clause%20limitative%20de%20responsabilit%C3%A9&body=Bonjour%2C%0A%0AVoici%20mon%20retour%20sur%20le%20guide%20%3A%0A%0A-%20Document%20ou%20point%20concern%C3%A9%20%3A%0A-%20Commentaire%20%3A%0A-%20Suggestion%20%C3%A9ventuelle%20%3A%0A%0AMerci.)
+[Proposer une remarque sur GitHub](https://github.com/danielkorabelnikov/Kit-clause-limitative-responsabilite/issues/new?title=Retour%20sur%20le%20guide%20clause%20limitative%20de%20responsabilit%C3%A9&body=Bonjour%2C%0A%0AVoici%20mon%20retour%20sur%20le%20guide%20%3A%0A%0A-%20Document%20ou%20point%20concern%C3%A9%20%3A%0A-%20Commentaire%20%3A%0A-%20Suggestion%20%C3%A9ventuelle%20%3A%0A%0AMerci.)
 
 ## Types de retours utiles
 
